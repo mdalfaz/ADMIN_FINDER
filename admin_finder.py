@@ -14,7 +14,7 @@ args = parser.parse_args() #arguments to be parsed
 target = args.target #Gets tarfet from argument
 
 #Fancy banner :p
-print ('''\033[1;34m 
+print ('''\033[1;37m 
 
     _    _     _____ _    _____     _    ____  __  __ ___ _   _   _____ ___ _   _ ____  _____ ____  
    / \  | |   |  ___/ \  |__  /    / \  |  _ \|  \/  |_ _| \ | | |  ___|_ _| \ | |  _ \| ____|  _ \ 
@@ -23,7 +23,7 @@ print ('''\033[1;34m
 /_/   \_|_____|_|/_/   \_/____| /_/   \_|____/|_|  |_|___|_| \_| |_|   |___|_| \_|____/|_____|_| \_\
                                                                                                                                      
                                                                                                                                      
-                        \033[37mMade with \033[91m<3\033[37m By ALFAZ\033[1;m''')
+                        \033[91mMade with \033[91m|*|\033[37m By ALFAZ\033[1;m''')
 
 print ('''\n  I am not responsible for your shit and if you get some error while
  running admin_finder, there are good chances that target isn't responding.\n''')
